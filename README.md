@@ -1,3 +1,7 @@
+
+
+Smart contract deployed to pegasus testnet block explorere = "0xE02FE869AE80ea475439734Bd29e937aD774BbFC";
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
