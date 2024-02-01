@@ -23,7 +23,7 @@ export default function App() {
       const contract = new Contract(CONTRACT_ADDRESS, CONTRACT_ABI, signer);
 
       try {
-        const transaction = await contract.updateName("Abdullahi Salihu");
+        const transaction = await contract.updateName("nafkem");
         await transaction.wait();
       } catch (error) {
         setIsError(true);
